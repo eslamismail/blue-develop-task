@@ -1,0 +1,107 @@
+[
+  {
+    "name": "admins",
+    "path": "/admins",
+    "component": "/home/eslam/corxdev/task/courses/admin/pages/admins/index.vue",
+    "chunkName": "pages/admins/index",
+    "_name": "_c0c05c7a"
+  },
+  {
+    "name": "forgetpassword",
+    "path": "/forgetpassword",
+    "component": "/home/eslam/corxdev/task/courses/admin/pages/forgetpassword.vue",
+    "chunkName": "pages/forgetpassword",
+    "_name": "_43fc2478"
+  },
+  {
+    "name": "login",
+    "path": "/login",
+    "component": "/home/eslam/corxdev/task/courses/admin/pages/login.vue",
+    "chunkName": "pages/login",
+    "_name": "_527cfd5d"
+  },
+  {
+    "name": "mycourses",
+    "path": "/mycourses",
+    "component": "/home/eslam/corxdev/task/courses/admin/pages/mycourses.vue",
+    "chunkName": "pages/mycourses",
+    "_name": "_34f91300"
+  },
+  {
+    "name": "register",
+    "path": "/register",
+    "component": "/home/eslam/corxdev/task/courses/admin/pages/register.vue",
+    "chunkName": "pages/register",
+    "_name": "_04fd7b42"
+  },
+  {
+    "name": "admins-dashboard",
+    "path": "/admins/dashboard",
+    "component": "/home/eslam/corxdev/task/courses/admin/pages/admins/dashboard/index.vue",
+    "chunkName": "pages/admins/dashboard/index",
+    "_name": "_70f4bcc8"
+  },
+  {
+    "name": "admins-login",
+    "path": "/admins/login",
+    "component": "/home/eslam/corxdev/task/courses/admin/pages/admins/login.vue",
+    "chunkName": "pages/admins/login",
+    "_name": "_694774da"
+  },
+  {
+    "name": "admins-dashboard-courses",
+    "path": "/admins/dashboard/courses",
+    "component": "/home/eslam/corxdev/task/courses/admin/pages/admins/dashboard/courses/index.vue",
+    "chunkName": "pages/admins/dashboard/courses/index",
+    "_name": "_f3fdbd9e"
+  },
+  {
+    "name": "admins-dashboard-students",
+    "path": "/admins/dashboard/students",
+    "component": "/home/eslam/corxdev/task/courses/admin/pages/admins/dashboard/students/index.vue",
+    "chunkName": "pages/admins/dashboard/students/index",
+    "_name": "_48efbe15"
+  },
+  {
+    "name": "admins-dashboard-courses-create",
+    "path": "/admins/dashboard/courses/create",
+    "component": "/home/eslam/corxdev/task/courses/admin/pages/admins/dashboard/courses/create.vue",
+    "chunkName": "pages/admins/dashboard/courses/create",
+    "_name": "_61d74fad"
+  },
+  {
+    "name": "admins-dashboard-students-create",
+    "path": "/admins/dashboard/students/create",
+    "component": "/home/eslam/corxdev/task/courses/admin/pages/admins/dashboard/students/create.vue",
+    "chunkName": "pages/admins/dashboard/students/create",
+    "_name": "_0687616e"
+  },
+  {
+    "name": "admins-dashboard-courses-id",
+    "path": "/admins/dashboard/courses/:id",
+    "component": "/home/eslam/corxdev/task/courses/admin/pages/admins/dashboard/courses/_id/index.vue",
+    "chunkName": "pages/admins/dashboard/courses/_id/index",
+    "_name": "_2fd788c8"
+  },
+  {
+    "name": "admins-dashboard-students-id",
+    "path": "/admins/dashboard/students/:id",
+    "component": "/home/eslam/corxdev/task/courses/admin/pages/admins/dashboard/students/_id/index.vue",
+    "chunkName": "pages/admins/dashboard/students/_id/index",
+    "_name": "_26e1c680"
+  },
+  {
+    "name": "reset-id",
+    "path": "/reset/:id?",
+    "component": "/home/eslam/corxdev/task/courses/admin/pages/reset/_id.vue",
+    "chunkName": "pages/reset/_id",
+    "_name": "_26e43c6e"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/home/eslam/corxdev/task/courses/admin/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_ee554b74"
+  }
+]

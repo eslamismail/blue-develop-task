@@ -1,0 +1,62 @@
+{
+  "DashboardHeader": {
+    "description": "Auto imported from components/DashboardHeader.vue"
+  },
+  "LazyDashboardHeader": {
+    "description": "Auto imported from components/DashboardHeader.vue"
+  },
+  "DataTable": {
+    "description": "Auto imported from components/dataTable.vue"
+  },
+  "LazyDataTable": {
+    "description": "Auto imported from components/dataTable.vue"
+  },
+  "ProductCarousel": {
+    "description": "Auto imported from components/productCarousel.vue"
+  },
+  "LazyProductCarousel": {
+    "description": "Auto imported from components/productCarousel.vue"
+  },
+  "SingleImageEdit": {
+    "description": "Auto imported from components/singleImageEdit.vue"
+  },
+  "LazySingleImageEdit": {
+    "description": "Auto imported from components/singleImageEdit.vue"
+  },
+  "AdminHeader": {
+    "description": "Auto imported from components/include/adminHeader.vue"
+  },
+  "LazyAdminHeader": {
+    "description": "Auto imported from components/include/adminHeader.vue"
+  },
+  "AdminNav": {
+    "description": "Auto imported from components/include/adminNav.vue"
+  },
+  "LazyAdminNav": {
+    "description": "Auto imported from components/include/adminNav.vue"
+  },
+  "UserHeader": {
+    "description": "Auto imported from components/include/userHeader.vue"
+  },
+  "LazyUserHeader": {
+    "description": "Auto imported from components/include/userHeader.vue"
+  },
+  "UserNav": {
+    "description": "Auto imported from components/include/userNav.vue"
+  },
+  "LazyUserNav": {
+    "description": "Auto imported from components/include/userNav.vue"
+  },
+  "Error": {
+    "description": "Auto imported from components/public/error.vue"
+  },
+  "LazyError": {
+    "description": "Auto imported from components/public/error.vue"
+  },
+  "ImageInput": {
+    "description": "Auto imported from components/public/imageInput.vue"
+  },
+  "LazyImageInput": {
+    "description": "Auto imported from components/public/imageInput.vue"
+  }
+}
